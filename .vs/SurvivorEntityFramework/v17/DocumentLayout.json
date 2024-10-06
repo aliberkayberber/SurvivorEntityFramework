@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\controllers\\competitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\controllers\\competitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\dtos\\createcompetitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\dtos\\createcompetitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\entities\\competitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\entities\\competitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\dtos\\updatecompetitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\dtos\\updatecompetitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|c:\\users\\administrator\\source\\repos\\survivorentityframework\\survivorentityframework\\context\\survivordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D405C0-FBCD-40A5-BB26-85DA090EA290}|SurvivorEntityFramework\\SurvivorEntityFramework.csproj|solutionrelative:survivorentityframework\\context\\survivordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\README.md",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\README.md",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\README.md",
+              "RelativeToolTip": "SurvivorEntityFramework\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-06T12:46:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurvivorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Context\\SurvivorDbContext.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\Context\\SurvivorDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Context\\SurvivorDbContext.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\Context\\SurvivorDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:24:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateCompetitorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\DTOs\\UpdateCompetitorDto.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\DTOs\\UpdateCompetitorDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\DTOs\\UpdateCompetitorDto.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\DTOs\\UpdateCompetitorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:23:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:17:05.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCompetitorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\DTOs\\CreateCompetitorDto.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\DTOs\\CreateCompetitorDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\DTOs\\CreateCompetitorDto.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\DTOs\\CreateCompetitorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:49:03.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Entities\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\Entities\\CategoryEntity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Entities\\CategoryEntity.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\Entities\\CategoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:36:46.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompetitorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Entities\\CompetitorEntity.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\Entities\\CompetitorEntity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Entities\\CompetitorEntity.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\Entities\\CompetitorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:31:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetitorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Controllers\\CompetitorsController.cs",
+              "RelativeDocumentMoniker": "SurvivorEntityFramework\\Controllers\\CompetitorsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SurvivorEntityFramework\\SurvivorEntityFramework\\Controllers\\CompetitorsController.cs",
+              "RelativeToolTip": "SurvivorEntityFramework\\Controllers\\CompetitorsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwC0AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:34:00.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

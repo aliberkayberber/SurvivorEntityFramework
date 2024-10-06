@@ -1,0 +1,6 @@
+@SurvivorEntityFramework_HostAddress = http://localhost:5207
+
+GET {{SurvivorEntityFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
